@@ -1,0 +1,373 @@
+{
+  "shoulders" :
+  {
+    "barbell": [
+    "behind neck press",
+    "front raise",
+    "front raise incline",
+    "military press",
+    "upright row",
+    "military press seated",
+    "shoulder press",
+    "rear delt raise",
+    "rear delt row",
+    "Lying Rear Delt Row"
+  ],
+    "cable": [
+    "behind neck press",
+    "front raise",
+    "military press",
+    "shoulder press",
+    "lateral raise",
+    "upright row",
+    "y-raise",
+    "reverse fly",
+    "rear delt row",
+    "rear lateral raise",
+    "standing cross row"
+  ],
+    "dumbbell": [
+    "arnold press",
+    "front raise",
+    "shoulder press",
+    "incline lateral raise",
+    "incline y raise",
+    "lying lateral raise",
+    "raise",
+    "upright row",
+    "lying rear delt row",
+    "lying rear lateral raise",
+    "rear lateral raise",
+    "rear delt row",
+    "seated rear lateral raise",
+    "side lying rear delt raise"
+  ],
+    "lever": [
+      "behind neck press",
+      "military press",
+      "reclined shoulder press",
+      "shoulder press",
+      "barbell machine upright row",
+      "lateral raise",
+      "incline rear delt row",
+      "lying rear lateral raise",
+      "rear delt raise",
+      "seated rear delt row",
+      "seated rear lateral raise",
+      "t-bar rear delt row"
+    ]
+},
+
+"triceps":
+  {
+    "barbell": [
+      "close grip press",
+      "lying triceps extension",
+      "lying triceps extension incline",
+      "lying triceps extension decline",
+      "skull crusher",
+      "barbell triceps extension"
+    ],
+      "cable": [
+      "Cable Bent-over Triceps Extension",
+      "Cable Forward Triceps Extension",
+      "Cable Incline Triceps Extension",
+      "Cable Lying Triceps Extension",
+      "Cable Pushdown"
+    ],
+      "dumbbell": [
+      "Dumbbell Kickback",
+      "Dumbbell Lying Triceps Extension",
+      "Dumbbell Triceps Extension"
+    ],
+      "lever": [
+      "Lever Close Grip Bench Press",
+      "Lever Triceps Extension",
+      "Lever Triceps Dip",
+      "Lever Incline Triceps Extension",
+      "Lever Pushdown",
+      "Lever Seated Close Grip Press"
+    ]
+  },
+"biceps":{
+  "barbell": [
+    "Curl",
+    "Drag Curl",
+    "Preacher Curl",
+    "Prone Incline Curl",
+    "Ez Bar Curl"
+  ],
+  "dumbbell": [
+    "Curl",
+    "Seated Curl",
+    "Incline Curl",
+    "Concentration Curl",
+    "Dumbbell Preacher Curl",
+    "Prone Incline Curl"
+  ],
+  "lever": [
+    "Preacher Curl",
+    "Lever Curl"
+  ]
+},
+
+"forearms": {
+  "barbell": [
+    "Reverse Curl",
+    "Reverse Preacher Curl"
+  ],
+  "cable": [
+    "Hammer Curl",
+    "Reverse Curl",
+    "Reverse Preacher Curl"
+  ],
+  "dumbbell": [
+    "Hammer Curl"
+  ],
+  "lever": [
+    "Reverse Curl",
+    "Reverse Preacher Curl",
+    "Hammer Preacher Curl"
+  ]
+},
+
+"back": {
+  "barbell": [
+    "Bent-over Row",
+    "Cambered Barbell Lying Row",
+    "Cambered Barbell Seated Shrug",
+    "Pullover",
+    "Shrugs",
+    "Trap Bar Shrug"
+  ],
+  "cable": [
+    "incline row",
+    "kneeling row",
+    "lying row",
+    "one arm bent-over row",
+    "seated rows",
+    "standing rows",
+    "close grip pull down",
+    "kneeling bent over pull down",
+    "pull down",
+    "pullover",
+    "rear pull down",
+    "underhand pull down"
+  ],
+  "dumbbell": [
+    "bent-over row",
+    "lying row",
+    "lying row incline",
+    "shrugs"
+  ],
+  "lever": [
+    "bent over row",
+    "incline row",
+    "one arm standing row",
+    "seated rows(no chest pad)",
+    "seated low rows",
+    "seated high rows",
+    "underhand seated rows",
+    "t-bar row",
+    "close grip pull down",
+    "front pull down",
+    "pullover",
+    "rear pull down",
+    "underhand pull down",
+    "grip less shrugs",
+    "seated shrugs",
+    "shrugs",
+    "shoulder external rotation",
+    "shoulder internal rotation"
+  ],
+  "body weight":[
+    "hyperextension"
+  ]
+},
+  "chest": {
+    "barbell": [
+      "bench press",
+      "incline bench press",
+      "decline bench press",
+      "incline shoulder raise"
+    ],
+    "cable": [
+      "chest dip",
+      "decline fly",
+      "lying fly",
+      "seated fly",
+      "standing fly",
+      "bench press",
+      "chest press seated",
+      "chest press standing",
+      "decline chest press",
+      "standing decline chest press",
+      "incline bench press",
+      "incline chest press",
+      "standing incline chest press",
+      "incline fly",
+      "standing incline fly"
+    ],
+    "dumbbell": [
+      "bench press",
+      "incline bench press",
+      "decline bench press",
+      "incline shoulder raise",
+      "decline fly",
+      "incline fly",
+      "fly",
+      "pullover"
+    ],
+    "lever": [
+      "bench press",
+      "incline bench press",
+      "chest dip",
+      "chest press",
+      "incline chest press",
+      "decline chest press",
+      "wide grip chest press",
+      "decline fly",
+      "lying fly",
+      "pec deck fly",
+      "pec deck fly decline",
+      "seated fly"
+    ]
+  },
+  "thighs/hips": {
+    "barbell": [
+      "deadlift",
+      "hip thrust",
+      "lunge",
+      "rear lunge",
+      "side lunge",
+      "single leg split squat",
+      "squat",
+      "front squat",
+      "hack squat",
+      "trap bar deadlift",
+      "straight leg deadlift"
+    ],
+    "cable": [
+      "bent over leg curl",
+      "lying leg curl",
+      "standing leg curl",
+      "rear lunge",
+      "single leg split squat",
+      "split squat",
+      "squat",
+      "glute kickback",
+      "standing hip extension",
+      "step up"
+    ],
+    "dumbbell": [
+      "lunge",
+      "alternating side lunge",
+      "rear lunge",
+      "walking lunge",
+      "single leg stiff leg deadlift",
+      "single leg split squat",
+      "squat",
+      "front squat",
+      "step up",
+      "step up lateral",
+      "lying hip abduction",
+      "straight leg deadlift"
+    ],
+    "lever": [
+      "alternating lying leg curl",
+      "kneeling leg curl",
+      "lying leg curl",
+      "seated leg curl",
+      "seated hip adduction",
+      "standing hip adduction",
+      "bent over glute kickback",
+      "deadlift",
+      "hip thrust",
+      "45 degree leg press",
+      "hack press",
+      "seated leg press",
+      "power runner",
+      "rear lunge",
+      "squat",
+      "v squat",
+      "hip flexion"
+    ]
+  },
+  "calves": {
+    "barbell": [
+      "standing calf raises",
+      "safety calf raises",
+      "safety bar seated calf raises",
+      "reverse calf raises",
+      "safety bar reverse calf raises"
+    ],
+    "lever": [
+      "45 degree calf press",
+      "45 degree calf raise",
+      "calf extension",
+      "donkey calf raise",
+      "seated calf press",
+      "standing calf raise",
+      "bent knee calf extension",
+      "seated calf extension",
+      "seated calf raise",
+      "45 degree reverse calf press",
+      "45 degree reverse calf raise",
+      "reverse calf raise",
+      "reverse calf extension",
+      "seated tibia raise",
+      "standing tibia raise",
+      "donkey reverse calf raise"
+    ]
+  },
+  "abs": {
+    "barbell": [
+      "push crunch",
+      "push sit up"
+    ],
+    "cable": [
+      "lying leg-hip raise(on bench)",
+      "seated crunch",
+      "side bend",
+      "side crunch",
+      "seated twist",
+      "twist",
+      "twist (down up)",
+      "twist (up down)"
+    ],
+    "dumbbell": [
+      "45 degree side bend",
+      "side bend"
+    ],
+    "lever": [
+      "lying crunch",
+      "lying leg raise crunch",
+      "seated leg raise crunch",
+      "push crunch",
+      "seated crunch",
+      "barbell machine side bend",
+      "seated side leg raise crunch",
+      "seated side crunch",
+      "standing side bend"
+    ],
+    "body weight": [
+      "crunch",
+      "incline crunch",
+      "jack-knife sit-up",
+      "hanging leg raise",
+      "hanging straight leg raise",
+      "incline sit-up",
+      "sit-up",
+      "v-up",
+      "angled side bridge",
+      "lying twist",
+      "side bridge",
+      "hanging twisting leg raise",
+      "vertical twisting leg raise",
+      "incline twisting sit-up",
+      "twisting sit-up",
+      "twisting crunches",
+      "incline twisting crunches"
+    ]
+  }
+}
